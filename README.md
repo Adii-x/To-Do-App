@@ -33,6 +33,3 @@ Everything is saved automatically in your browser using LocalStorage.
 - LocalStorage
 
 ---
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
